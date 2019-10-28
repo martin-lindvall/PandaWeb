@@ -17,6 +17,9 @@ h4{
 p {
     font-family: verdana;
     font-size: 12 px;
+    border: groove lightgray;
+    border-width: 20px;
+    padding: 20px;
 }
 
 img {
