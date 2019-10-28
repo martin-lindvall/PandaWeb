@@ -10,17 +10,17 @@ h1 {
     width: 50%;
     font-size: 40px;
     font-family: arial;
-    text-shadow: 2px 2px 5px green;
-    color: DarkGreen;
-    background-color: purple;
+    text-shadow: 2px 2px 5px grey;
+    color: black;
+    background-color: #ddccff;
     padding: 10px;
 }
 
 h3{
     text-align: left;
     margin-bottom: 1 px;
-    text-shadow: 2px 2px 5px green;
-    color: DarkGreen;
+    text-shadow: 2px 2px 5px grey;
+    color: black;
 
 
 }
