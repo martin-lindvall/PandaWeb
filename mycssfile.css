@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    text-align: left;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 75%;
@@ -34,4 +34,30 @@ div{
     width: 50%;
     border: 3px solid green;
     padding: 10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    height: 100px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+th{
+    background-color: lightgrey;
+}
+
+tr {
+    background-color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+tr, th, td {
+    text-align: left;
+    padding: 8px;
 }
