@@ -1,0 +1,19 @@
+body {
+    background-color: green;
+}
+
+h1 {
+}
+
+p {
+    font-family: verdana;
+    font-size: 12 px;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
