@@ -11,12 +11,15 @@ h1 {
     font-size: 40px;
     font-family: arial;
     text-shadow: 2px 2px 5px green;
+    color: DarkGreen;
 }
 
 h3{
     text-align: left;
     margin-bottom: 1 px;
     text-shadow: 2px 2px 5px green;
+    color: DarkGreen;
+
 
 }
 
