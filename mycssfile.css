@@ -10,13 +10,17 @@ h1 {
     width: 75%;
 }
 
+h4{
+    text-align: center;
+}
+
 p {
     font-family: verdana;
     font-size: 12 px;
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 25%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -27,7 +31,7 @@ div{
     text-align: left;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 50%;
     border: 3px solid green;
     padding: 10px;
 }
